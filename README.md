@@ -5,6 +5,8 @@ Open new terminal tabs and VSCode from an ssh connection.
 Some people use Tmux and vim when connected to a remote server. This program is
 not for them.
 
+![Video Demo](https://user-images.githubusercontent.com/241046/113941186-91468900-97f6-11eb-96f1-7e0866e47b5c.mp4)
+
 ## Background
 
 When I write code locally, I will usually open a terminal and navigate to the
